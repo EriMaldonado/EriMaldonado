@@ -5,13 +5,13 @@
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
 ```python
-class RafnixG:
+class EriMaldonado:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'EriMaldonado'
+        self.name = 'Erick Maldonado'
+        self.web = 
+        self.linkdin = 
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
             'backend': ['Python', 'PHP', 'NodeJS'],
@@ -25,7 +25,7 @@ class RafnixG:
         return self.name
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = EriMaldonado()
 ```
 ## Get in touch
 

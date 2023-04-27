@@ -27,7 +27,7 @@ if __name__ == '__main__':
 ```
 ## Get in touch
 
-- Personal Site: 
+- Personal Site: https://erimaldonado.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/erickmaldonado1/
 
 

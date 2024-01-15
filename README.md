@@ -26,7 +26,7 @@ class EriMaldonado:
         self.web = 
         self.linkdin = 
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
+            'frontend': ['TypeScript', 'JavaScript','ReactJS','Nextjs' 'Tailwind'],
             'backend': ['Python', 'PHP', 'NodeJS'],
             'database': ['MySQL', 'Mongo DB'],
             'devops': ['GitHub Actions', 'AWS'],

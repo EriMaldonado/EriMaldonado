@@ -14,26 +14,24 @@
 
 ```python
 class EriMaldonado:
-
     def __init__(self):
         self.username = 'EriMaldonado'
         self.name = 'Erick Maldonado'
         self.web = 'https://erimaldonado.github.io/portfolio/'
         self.linkedin = 'https://www.linkedin.com/in/erickmaldonado1/'
         self.code = {
-            'frontend': ['TypeScript', 'JavaScript', 'ReactJS', 'Next.js',
-                         'HTML5', 'Tailwind CSS', 'Material UI', 'Shadcn UI'],
+            'frontend': ['TypeScript', 'JavaScript', 'ReactJS',
+                        'Next.js', 'HTML5', 'Tailwind CSS',
+                        'Material UI', 'Shadcn UI'],
             'backend': ['Node.js', 'Express', 'Python', 'PHP'],
             'database': ['MySQL', 'MongoDB'],
             'design': ['Figma', 'Adobe XD', 'Adobe Illustrator'],
-            'tools': ['Git', 'GitHub', 'Visual Studio Code', 'Pandas',
-                      'Jupyter Notebook']
+            'tools': ['Git', 'GitHub', 'Visual Studio Code',
+                     'Pandas','Jupyter Notebook']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'Microservices']
-
     def __str__(self):
         return self.name
-
 if __name__ == '__main__':
     me = EriMaldonado()
 ```
